@@ -7,5 +7,5 @@ Assignment 3 - Basic HTML
       title="“directing
       to
       hosted page"
-      >Hosted at
+      >Click on me! - Hosted at
     </a>
